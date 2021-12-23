@@ -1,0 +1,8 @@
+{
+  "name": "abc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ae4ccb62"
+}
